@@ -8,7 +8,7 @@ h1 h2 h3 {
     font-family: 'Roboto', sans-serif;
 }
 .topimg {
-    background-image: url("/Users/damianoramas/Desktop/Dom Projects/domoramas.github.io/underbridge.jpg");
+    background-image: url("underbridge.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: fixed;
