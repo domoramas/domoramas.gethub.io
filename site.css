@@ -9,7 +9,10 @@ h2 h3 {
 }
 .title { 
     font-family: 'Lalezar', cursive;
-    background-color: rgba(114, 101, 101, 0.158)
+    background-color: rgba(114, 101, 101, 0.158);
+    max-width: 1180px;
+    margin-left: auto;
+    margin-right:auto
 }
 .topimg {
     background-image: url("underbridge.jpg");
