@@ -1,6 +1,13 @@
 html {
     box-sizing: border-box
 }
+.clearfix:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+
 body {background-color: rgb(239, 239, 241);
     font-family: 'Roboto', sans-serif;
 }
